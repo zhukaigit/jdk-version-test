@@ -1,0 +1,16 @@
+# 忽略所有 target/ 目录下的所有文件。【/target/只忽略根目录下的target下所有文件】
+target/
+bin/
+.settings
+.idea
+*.iml
+*.bat
+.DS_Store
+*.cmd
+mvnw
+.mvn/
+logs/
+*.hprof
+*.log
+*_ignore.*
+temp/
